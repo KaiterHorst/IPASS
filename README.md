@@ -1,5 +1,5 @@
 READ ME
-1 Zorg dat de volgende pip installs goed zijn uitgevoerd
+1. Zorg dat de volgende pip installs goed zijn uitgevoerd
 	-pip install webbrowser, 
 	-pip install gmplot, 
 	-pip install requests
