@@ -1,7 +1,7 @@
 READ ME
 1 Zorg dat de volgende pip installs goed zijn uitgevoerd
-	-pip install webbrowser
-	-pip install gmplot
+	-pip install webbrowser, 
+	-pip install gmplot, 
 	-pip install requests
   Als het niet lukt volg deze tutorial https://www.youtube.com/watch?v=AdUZArA-kZw met de naam van de package die je wilt installeren.
 
@@ -12,7 +12,7 @@ READ ME
    In Chatbot.py op regel 3 staat url = "https://api.telegram.org/bot<plak hier jouw token>/"
 
 4. Zorg dat Chatbot.py, DijkstraAlgoritme.py, LongitudeLatitude.py, Main.py en Locatie.txt in het zelfde project staan
-   zodat de Main.py de imports zonder kunnen worden uitgevoerd.
+   zodat de Main.py de imports zonder moeite kunnen worden uitgevoerd.
 
 5. Nu ben je klaar om Main.py te runnen
 
